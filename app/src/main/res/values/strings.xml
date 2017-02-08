@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentDemo_Lec6</string>
+    <string name="btn1_ma1_label">UI2</string>
+
+    <string-array name="my_itm_lst">
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+        <item>CSIT111</item>
+    </string-array>
+</resources>
